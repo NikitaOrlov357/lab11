@@ -1,4 +1,4 @@
-//Copyright by Enigma
+//Copyright by NIK
 
 #include <boost/process/child.hpp>
 #include <builder.hpp>

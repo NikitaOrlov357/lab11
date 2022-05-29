@@ -1,4 +1,4 @@
-//Copyright by Enigma
+//Copyright by NIK
 
 #include <process.h>
 #include <string>
